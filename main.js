@@ -2,7 +2,11 @@
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
-// Your JavaScript code goes here!
+document.addEventListener("DOMContentLoaded", function () {
+  const errorModal = document.getElementById("modal"); // Gets reference to error modal
+
+  // Function to add a click event listener to all the empty hearts
+})
 
 
 
